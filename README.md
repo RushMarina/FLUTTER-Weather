@@ -51,11 +51,9 @@ Thus, the application provides an intuitive interface to display the current wea
 * WeatherBlocState
 * Text 
 
-## Video
+## Image
 
-![dotCMS logo](assets/WA.png) 
-
-<img src="assets/WA.png" alt="dotCMS logo" width="200"/>
+<img src="assets/WA.png" alt="dotCMS logo" width="300"/>
 
 ___
 [Up](#anchor)
