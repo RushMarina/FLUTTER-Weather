@@ -55,5 +55,7 @@ Thus, the application provides an intuitive interface to display the current wea
 
 ![dotCMS logo](assets/WA.png) 
 
+<img src="assets/WA.png" alt="dotCMS logo" width="200"/>
+
 ___
 [Up](#anchor)
