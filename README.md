@@ -53,7 +53,7 @@ Thus, the application provides an intuitive interface to display the current wea
 
 ## Video
 
-[![Example](https://github.com/RushMarina/Weather3/assets/WA.png)]
+[![Example](<img width="327" alt="WA" src="https://github.com/RushMarina/FLUTTER-Weather/assets/150655218/b40b7b4a-204c-4ce4-917e-dfe9aa5bbfba">)]
 
 ___
 [Up](#anchor)
