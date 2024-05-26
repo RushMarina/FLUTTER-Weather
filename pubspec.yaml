@@ -1,0 +1,47 @@
+name: weather3
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^11.1.0
+  weather: ^3.1.1
+  intl: ^0.19.0 
+  flutter_bloc: ^8.1.5
+  equatable: ^2.0.5
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/ask.gif
+  - assets/cloud.gif
+  - assets/ct.png
+  - assets/dima.gif
+  - assets/moonr.png
+  - assets/moon.gif
+  - assets/moonCloud.gif
+  - assets/moonrain.gif
+  - assets/snow.gif
+  - assets/Sun.gif
+  - assets/SunCloud.gif
+  - assets/sunr.png
+  - assets/SunRain.gif
+  - assets/wt.png
+  - assets/WA.png
